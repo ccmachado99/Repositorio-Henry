@@ -1,0 +1,5 @@
+* Variables= Es la forma de agregarle un valor a una opción o comando.
+	* Strings= Es una secuencia ordenada de caracteres o palabras delimitadas dentro de comillas.
+	* Funciones (argumentos, `return`)= Es un conjunto de operaciones que se ejecuntan bajo una serie de argumentos.
+	* Declaraciones `if`= Sirve para comparar una funcion y asi verificar si esta es true o false.
+	* Valores booleanos (`true`, `false`)= Es una constante de dos unicas variables "true" or "false".
