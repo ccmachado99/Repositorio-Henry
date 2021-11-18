@@ -1,0 +1,11 @@
+for === Se encarga de evaluar una expresion repetitivamente 
+        hasta obtener un resultado, basandose en 3 criterios:
+        1. Se establece una variable.
+        2. Se le otorga una expresion condicional (para finalizarla)
+        3. se incrementa el valor de la variable ++.
+
+&& === 'y' 'and'. ejemplo: Luis y Julia - 'Luis' && 'Julia'.
+
+|| === 'o' 'or'. ejemplo: jugo o agua - 'Jugo' || 'agua'.
+
+! === Negacio. ejemplo: no es verdadero. - !'verdadero'.
