@@ -1,0 +1,3 @@
+Arrayis: Es una lista que contienen una colección de elementos
+         de todo tipo en un orden especifico. esta lista esta
+         delimitada por un par de [].
