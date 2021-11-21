@@ -1,0 +1,12 @@
+Objetos: Es una lista en la que se agregan distintas propiedades,
+         las cuales poseen un determinado valor, estas propiedades
+         estan relacionadas, es decir, los objetos se enfocan a un tema
+         en especifico.
+Propiedades: Son elementos presentes en un objeto, las cuales estan
+             relacionados entre si y contienen un valor especifico.
+Metodos: Es una funcion que se puede implantar en una propiedad. 
+Bucle: Es una accón repetitiva.
+Notación puntos vs notación corchetes: Los puntos otorgan un valor y
+                                       los corchetes inician y finalizan
+                                       un conjunto de acciones.       
+            
