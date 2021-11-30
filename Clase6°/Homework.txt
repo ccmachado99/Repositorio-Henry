@@ -1,0 +1,4 @@
+Prototype = Es uan referencia que invoca las propiedades de otro
+            Objeto creado previamente.
+Constructors = Es una plantilla la cual nos permite crear muchos objetos
+               que compartem propiedades y metodos entre si.
